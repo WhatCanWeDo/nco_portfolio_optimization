@@ -35,7 +35,7 @@ I've tried different risk aversions and implemented nested clustered optimizatio
 
   Annualized sharpe ratio: **1.382**
 
-  ![alt-text-1](pics/mark_1_cumm.png) ![alt-text-2](pics/mark_1_dist.png)
+  ![alt-text-1](pics/mark_30_cumm.png) ![alt-text-2](pics/mark_30_dist.png)
 
 More expirements in the notebook
 
