@@ -26,7 +26,8 @@ I've tried different risk aversions and implemented nested clustered optimizatio
 
   Annualized sharpe ratio: **1.378**
 
-  ![alt-text-1](pics/baseline_cumm.png) ![alt-text-2](pics/baseline_dist.png)
+  <img src=pics/baseline_cumm.png width="412" height="412"> <img src=pics/baseline_dist.png widht="412" height="412">
+
 
 
 **Markowitz mean-variance model with NCO and risk aversion = 30**
@@ -34,8 +35,9 @@ I've tried different risk aversions and implemented nested clustered optimizatio
   Cummulative portfolio return: **2.969**
 
   Annualized sharpe ratio: **1.382**
-
-  ![alt-text-1](pics/mark_30_cumm.png) ![alt-text-2](pics/mark_30_dist.png)
+  
+  <img src=pics/mark_30_cumm.png width="412" height="412"> <img src=pics/mark_30_dist.png widht="412" height="412">
+  
 
 More expirements in the notebook
 
